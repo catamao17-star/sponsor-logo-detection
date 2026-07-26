@@ -1,0 +1,15 @@
+path: data/split
+train: images/train
+val: images/val
+
+names:
+  0: adidas
+  1: Budweiser
+  2: CocaCola
+  3: Heineken
+  4: Mastercard
+  5: McDonalds
+  6: playstation
+  7: qatarairways
+  8: nike
+  9: visa
